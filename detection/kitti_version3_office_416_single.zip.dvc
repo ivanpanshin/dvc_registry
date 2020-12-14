@@ -1,0 +1,4 @@
+outs:
+- md5: e536c45bdd89bf436392599a511948a2
+  size: 296264052
+  path: kitti_version3_office_416_single.zip

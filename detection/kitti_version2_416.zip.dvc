@@ -1,0 +1,4 @@
+outs:
+- md5: 2db292b05efaae906fc31d8ac5dc6e72
+  size: 194688473
+  path: kitti_version2_416.zip
